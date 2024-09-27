@@ -16,4 +16,5 @@ const name = `Michael`;
 const age = 23;
 
 console.log(“Hey there, I’m ” + name + “ and I’m” + age + “ years old.”;
+			
 
